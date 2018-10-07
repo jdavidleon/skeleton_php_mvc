@@ -1,0 +1,20 @@
+{
+  "name": "framework",
+  "homepage": "https://github.com/jdavidleon/skeleton_php_mvc",
+  "authors": [
+    "Juan Leon <jlp25@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
